@@ -862,13 +862,12 @@ hr {
 .works__info {
     width: 50%;
     padding: 0 15px;
-float : right;
     text-align: center;
     color: #fff;
 
     position: absolute;
     top: 50%;
-    left: 0;
+    left: 50%;
     z-index: 1;
 
     transform: translate3d(0, -50%, 0);
